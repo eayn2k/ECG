@@ -1,2 +1,3 @@
 # ECG
- Basic electrocardiogram project
+Bioinstrumentation Project:
+Basic electrocardiogram project
